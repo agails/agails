@@ -4,7 +4,7 @@
 
 ### Enthusiast of new technologies and passionate about data, seeking knowledge in the area and engineering data, big data analysis and data to change my career and be able to help a large company to extract more data!
 
-![agails github stats](https://github-readme-stats.vercel.app/api?username=agails)
+![agails github stats](https://github-readme-stats.vercel.app/api?username=agails&show_icons=true)
 
 <!--
 **agails/agails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

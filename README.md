@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Playstation fan 🎮
 <br>
 
-# Contacts:
-<br>
-<code> E-mail: email@agail.com.br </code> <br>
-<code> Cel./WhatsApp: +55 (11) 9 8600-9975 </code> <br>
-<code> Linkedin: <a href="https://www.linkedin.com/in/agail/">Agail Sanchez</a> </code><br>
-<code> GitHub: <a href="https://https://github.com/agails">github.com/agails</a> </code><br>
-<code> Site Pessoal: <a href="www.agail.com.br">www.agail.com.br </a> </code><br>
+## Contacts:
+<code> E-mail: email@agail.com.br </code>
+<code> Cel./WhatsApp: +55 (11) 9 8600-9975 </code>
+<code> Linkedin: <a href="https://www.linkedin.com/in/agail/">Agail Sanchez</a> </code>
+<code> GitHub: <a href="https://https://github.com/agails">github.com/agails</a> </code>
+<code> Site Pessoal: <a href="www.agail.com.br">www.agail.com.br </a> </code>

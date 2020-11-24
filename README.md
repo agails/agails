@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Playstation fan 🎮
 <br>
 
-##Contacts:
+# Contacts:
 <br>
 <code> E-mail: email@agail.com.br </code> <br>
 <code> Cel./WhatsApp: +55 (11) 9 8600-9975 </code> <br>

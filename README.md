@@ -4,14 +4,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agails)](https://twitter.com/agails)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:email@agail.com.br)](mailto:email@agail.com.br)
 
-
 ## Business Analyst at TOTVS SA with an MBA in IT, Analytics, Big Data and Intelligent Information and a Bachelor's Degree in Computer Science.
 
 ### Enthusiast of new technologies and passionate about data, seeking knowledge in the area and engineering data, big data analysis and data to change my career and be able to help a large company to extract more data!
 
-
 ![agails github stats](https://github-readme-stats.vercel.app/api?username=agails)
-
 
 <!--
 **agails/agails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Just look at contacts
 - 😄 Pronouns: Autodidact, focused, curious, intense and determined
 - ⚡ Fun fact: Playstation fan 🎮
-<br>
 
 ## Contacts:
 <code> E-mail: email@agail.com.br </code><br>

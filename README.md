@@ -11,6 +11,7 @@
 
 Here are some ideas to get you started:
 -->
+
 - 🔭 I’m currently working on: TOTVS S.A.
 - 🌱 I’m currently learning: Pyton and MongoDB
 - 👯 I’m looking to collaborate on: Big Data Projects
@@ -23,7 +24,9 @@ Here are some ideas to get you started:
 ## Contacts:
 <code> E-mail: email@agail.com.br </code><br>
 <code> Cel./WhatsApp: +55 (11) 9 8600-9975 </code><br>
-<code> Site Pessoal: <a href="www.agail.com.br">www.agail.com.br </a> </code>
+<code> Site Pessoal: <a href="www.agail.com.br">www.agail.com.br </a> </code><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/agail)](https://www.linkedin.com/in/agail)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agails)](https://twitter.com/agails)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:email@agail.com.br)](mailto:email@agail.com.br)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agails&repo=bootcamp-eng-dados-igti)](https://github.com/agails/bootcamp-eng-dados-igti)

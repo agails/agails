@@ -13,7 +13,7 @@
 - 💬 Ask me about: SQL!
 - 📫 How to reach me: Just look at my contacts below
 - 😄 Pronouns: Autodidact, focused, curious, intense and determined
-- ⚡ Fun fact: Playstation fan since 1994 🎮<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- ⚡ Fun fact: Playstation fan since 1994 🎮
 
 ## Contacts:
 <code> Cel./WhatsApp: +55 (11) 9 8600-9975 </code><br>
@@ -21,10 +21,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/agail)](https://www.linkedin.com/in/agail)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agails)](https://twitter.com/agails)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:email@agail.com.br)](mailto:email@agail.com.br)
-
-<!--
-**agails/agails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-![agails github stats](https://github-readme-stats.vercel.app/api?username=agails&show_icons=true)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />

@@ -13,7 +13,7 @@
 - 💬 Ask me about: SQL!
 - 📫 How to reach me: Just look at my contacts below
 - 😄 Pronouns: Autodidact, focused, curious, intense and determined
-- ⚡ Fun fact: Playstation fan since 1994 🎮
+- ⚡ Fun fact: Playstation fan since 1994 🎮<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Contacts:
 <code> Cel./WhatsApp: +55 (11) 9 8600-9975 </code><br>

@@ -1,25 +1,27 @@
-# Hi there! I'm Agail Sanchez 🐱‍👤
+# Hi there! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## Business Analyst at TOTVS SA with an MBA in IT, Analytics, Big Data and Intelligent Information and a Bachelor's Degree in Computer Science.
+# My name is Agail Sanchez 🐱‍👤
 
-### Enthusiast of new technologies and passionate about data, seeking knowledge in the area and engineering data, big data analysis and data to change my career and be able to help a large company to extract more data!
+## I'm Data Engineer on Koin, Bachelor's Degree in Computer Science and Master of Business Administration in IT, Analytics, Big Data and Intelligent Information.
+
+### Enthusiast of new technologies and passionate about data, seeking knowledge in the area of data engineering, big data analysis and data science to powerup my career and be able to help society to extract, transform and load even more data!
 
 ![agails github stats](https://github-readme-stats.vercel.app/api?username=agails&show_icons=true)
+
+- 🔭 I’m currently working on: KOIN Adm. de Cartões e Meios de Pagamento S.A.
+- 🌱 I’m currently learning: Pyton and Apache Airflow
+- 👯 I’m looking to collaborate on: Big Data Projects
+- 🤔 I’m looking for help with: Search of Apache Airflow free contents 😅
+- 💬 Ask me about: SQL!
+- 📫 How to reach me: Just look at my contacts below
+- 😄 Pronouns: Autodidact, focused, curious, intense and determined
+- ⚡ Fun fact: Playstation fan since 1994 🎮
 
 <!--
 **agails/agails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on: TOTVS S.A.
-- 🌱 I’m currently learning: Pyton and MongoDB
-- 👯 I’m looking to collaborate on: Big Data Projects
-- 🤔 I’m looking for help with: Indications of vacancies for data engineer 😅
-- 💬 Ask me about: SQL!
-- 📫 How to reach me: Just look at contacts
-- 😄 Pronouns: Autodidact, focused, curious, intense and determined
-- ⚡ Fun fact: Playstation fan 🎮
 
 ## Contacts:
 <code> Cel./WhatsApp: +55 (11) 9 8600-9975 </code><br>

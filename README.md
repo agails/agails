@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-# My name is Agail Sanchez 🐱‍👤
+# My name is Agail Sanchez
 
 ## I'm Data Engineer on Koin, Bachelor's Degree in Computer Science and Master of Business Administration in IT, Analytics, Big Data and Intelligent Information.
 

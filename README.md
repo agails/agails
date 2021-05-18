@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+# Hi there! <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 
 # My name is Agail Sanchez
 

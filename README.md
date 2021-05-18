@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
+# Hi there! <img src="https://github.com/agails/agails/blob/main/Hi.gif" height="32" />
 
 # My name is Agail Sanchez
 
@@ -13,7 +13,7 @@
 - 💬 Ask me about: SQL!
 - 📫 How to reach me: Just look at my contacts below
 - 😄 Pronouns: Autodidact, focused, curious, intense and determined
-- ⚡ Fun fact: Playstation fan since 1994 🎮<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- ⚡ Fun fact: Playstation fan since 1994 🎮<img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## Contacts:
 <code> Cel./WhatsApp: +55 (11) 9 8600-9975 </code><br>

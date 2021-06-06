@@ -6,14 +6,14 @@
 
 ### Enthusiast of new technologies and passionate about data, seeking knowledge in the area of data engineering, big data analysis and data science to powerup my career and be able to help society to extract, transform and load even more data!
 
-- 🔭 I’m currently working on: KOIN Adm. de Cartões e Meios de Pagamento S.A.
-- 🌱 I’m currently learning: Pyton and Apache Airflow
-- 👯 I’m looking to collaborate on: Big Data Projects
-- 🤔 I’m looking for help with: Search of Apache Airflow free contents 😅
-- 💬 Ask me about: SQL!
-- 📫 How to reach me: Just look at my contacts below
-- 😄 Pronouns: Autodidact, focused, curious, intense and determined
-- ⚡ Fun fact: Playstation fan since 1994 🎮<img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" />
+- 💼  I’m currently working on: KOIN Adm. de Cartões e Meios de Pagamento S.A.
+- 📚  I’m currently learning: Pyton and Apache Airflow
+- 🤝  I’m looking to collaborate on: Interesting Projects
+- 🔬  I’m looking for help with: Search of Apache Airflow free knowledges 😅
+- 💬  Ask me about: All about SQL!
+- 📫  How to reach me: Just look at my contacts below
+- 🥷🏼  I define myself as: Autodidact, focused, curious, intense and determined
+- 🎮  Fun fact: Playstation fan since 1994 <img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## Contacts:
 <code> Personal site: <a href="www.agail.com.br">www.agail.com.br </a> </code><br><br>

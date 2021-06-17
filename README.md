@@ -21,3 +21,14 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agails)](https://twitter.com/agails)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:email@agail.com.br)](mailto:email@agail.com.br)
 
+<table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img width="600" height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=agails&layout=compact&theme=light'>
+    </td>
+    <td>
+      <img width="600" height='172' src='https://github-readme-stats.vercel.app/api?username=agails&show_icons=true&theme=light'>
+    </td>
+  </row>
+</table>

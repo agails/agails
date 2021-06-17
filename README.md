@@ -16,7 +16,7 @@
 - 🎮  Fun fact: Playstation fan since 1994 <img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## Contacts:
-<code> Personal site: <a href="www.agail.com.br">www.agail.com.br </a> </code><br><br>
+<code> Personal site: <a href="http://www.agail.com.br">www.agail.com.br </a> </code><br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/agail)](https://www.linkedin.com/in/agail)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agails)](https://twitter.com/agails)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:email@agail.com.br)](mailto:email@agail.com.br)

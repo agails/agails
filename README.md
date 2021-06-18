@@ -15,7 +15,7 @@
 - 🥷🏼  **I define myself as:** Autodidact, focused, curious, intense and determined
 - 🎮  **Fun fact:** Playstation fan since 1994
 
-## 🛠  Technologies and tools
+### 🛠  Technologies and tools
 [![Apple Badge](https://img.shields.io/badge/Apple-282C34?logo=Apple&logoColor=FFFFFF)](https://apple.com)
 [![AWS Badge](https://img.shields.io/badge/AWS-282C34?logo=Amazon+AWS&logoColor=FE7A16)](https://aws.amazon.com)
 [![git Badge](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)](https://git-scm.com)
@@ -24,11 +24,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" />
 
-## 📖  Currently learning / improving on
+### 📖  Currently learning / improving on
 [![Airflow Badge](https://img.shields.io/badge/Airflow-282C34?logo=Apache+Airflow&logoColor=FFFFFF)](https://airflow.apache.org)
 [![Python Badge](https://img.shields.io/badge/python-282C34?logo=python&logoColor=3DDC84)](https://www.python.org)
 
-## 🔍  Where to find me
+### 🔍  Where to find me
 <code> Personal site: <a href="http://www.agail.com.br">www.agail.com.br </a> </code><br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/agail)](https://www.linkedin.com/in/agail)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agails)](https://twitter.com/agails)

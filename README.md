@@ -16,19 +16,27 @@
 - 🎮  **Fun fact:** Playstation fan since 1994
 
 ### 🛠  Tools and technologies to which I have proficiency
-[![Apple Badge](https://img.shields.io/badge/Apple-282C34?logo=Apple&logoColor=FFFFFF)](https://apple.com)
-[![Adobe Dreamweaver](https://img.shields.io/badge/Dreamweaver-282C34?logo=Adobe+Dreamweaver&logoColor=3DDC84)](https://adobe.com)
-[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-282C34?logo=Adobe+Illustrator&logoColor=e39a24)](https://adobe.com)
-[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-282C34?logo=Adobe+Photoshop&logoColor=007ACC)](https://adobe.com)
-[![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-282C34?logo=Affinity+Photo&logoColor=e324c6)](https://adobe.com)
-[![git Badge](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)](https://git-scm.com)
-[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=0099FF)](https://git-scm.com)
+[![Apple](https://img.shields.io/badge/Apple-282C34?&message=Apple&logo=Apple&logoColor=FFFFFF)](https://apple.com)
+[![Linux](https://img.shields.io/badge/Linux-282C34?&message=Linux&logo=Linux&logoColor=FFFFFF)](https://www.linuxfoundation.org)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-282C34?&message=Microsoft_Office&logo=Microsoft+Office&logoColor=D83B01)](https://office.com)
+[![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-282C34?&message=Microsoft_SQL_Server&logo=Microsoft+SQL+Server&logoColor=FE7A16)](https://www.microsoft.com/sql-server)
+[![MySQL](https://img.shields.io/badge/MySQL-282C34?&message=MySQL&logo=MySQL&logoColor=0078D6)](https://mysql.com)
+[![Oracle](https://img.shields.io/badge/Oracle-282C34?&message=Oracle&logo=Oracle&logoColor=F80000)](https://www.oracle.com/database/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?&message=PostgreSQL&logo=PostgreSQL&logoColor=3776AB)](https://www.postgresql.org)
+[![Sublime Text](https://img.shields.io/badge/Sublime_Text-282C34?&message=Sublime_Text&logo=Sublime+Text&logoColor=FE7A16)](https://sublimetext.com)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-282C34?&message=Ubuntu&logo=Ubuntu&logoColor=FE7A16)](https://ubuntu.com)
+[![Windows](https://img.shields.io/badge/Windows-282C34?&message=Windows&logo=Windows&logoColor=0078D6)](https://www.microsoft.com/windows/)
 
-### 📖  Tools and technologies in which I am currently learning / improving my knowledge
-[![Airflow Badge](https://img.shields.io/badge/Airflow-282C34?logo=Apache+Airflow&logoColor=FFFFFF)](https://airflow.apache.org)
-[![AWS Badge](https://img.shields.io/badge/AWS-282C34?logo=Amazon+AWS&logoColor=FE7A16)](https://aws.amazon.com)
-[![Python Badge](https://img.shields.io/badge/python-282C34?logo=python&logoColor=3DDC84)](https://www.python.org)
-[![VSCode Badge](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
+
+### 📖  Tools and technologies in which I am currently improving my knowledge
+[![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-282C34?&message=Apache_Airflow&logo=Apache+Airflow&logoColor=FFFFFF)](https://airflow.apache.org)
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-282C34?&message=Amazon_AWS&logo=Amazon+AWS&logoColor=FE7A16)](https://aws.amazon.com)
+[![Git](https://img.shields.io/badge/Git-282C34?&message=Git&logo=Git&logoColor=F05032)](https://git-scm.com)
+[![Python](https://img.shields.io/badge/Python-282C34?&message=Python&logo=Python&logoColor=3776AB)](https://www.python.org)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-282C34?&message=Visual_Studio_Code&logo=Visual+Studio+Code&logoColor=007ACC)](https://code.visualstudio.com)
+[![Notion](https://img.shields.io/badge/Notion-282C34?&message=Notion&logo=Notion&logoColor=FFFFFF)](https://www.notion.so)
+[![Power BI](https://img.shields.io/badge/Power_BI-282C34?&message=Power_BI&logo=Power+BI&logoColor=yellow)](https://powerbi.microsoft.com)
+[![Docker](https://img.shields.io/badge/Docker-282C34?&message=Docker&logo=Docker&logoColor=2496ED)](https://docker.com)
 
 ### 🔍  Where to find me
 <code> Personal site: <a href="http://www.agail.com.br">www.agail.com.br </a> </code><br><br>

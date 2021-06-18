@@ -31,12 +31,12 @@
 ### 📖  Tools and technologies in which I am currently improving my knowledge
 [![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-282C34?&message=Apache_Airflow&logo=Apache+Airflow&logoColor=FFFFFF)](https://airflow.apache.org)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-282C34?&message=Amazon_AWS&logo=Amazon+AWS&logoColor=FE7A16)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/Docker-282C34?&message=Docker&logo=Docker&logoColor=2496ED)](https://docker.com)
 [![Git](https://img.shields.io/badge/Git-282C34?&message=Git&logo=Git&logoColor=F05032)](https://git-scm.com)
-[![Python](https://img.shields.io/badge/Python-282C34?&message=Python&logo=Python&logoColor=3776AB)](https://www.python.org)
-[![Visual Studio Code](https://img.shields.io/badge/VS_Code-282C34?&message=Visual_Studio_Code&logo=Visual+Studio+Code&logoColor=007ACC)](https://code.visualstudio.com)
 [![Notion](https://img.shields.io/badge/Notion-282C34?&message=Notion&logo=Notion&logoColor=FFFFFF)](https://www.notion.so)
 [![Power BI](https://img.shields.io/badge/Power_BI-282C34?&message=Power_BI&logo=Power+BI&logoColor=yellow)](https://powerbi.microsoft.com)
-[![Docker](https://img.shields.io/badge/Docker-282C34?&message=Docker&logo=Docker&logoColor=2496ED)](https://docker.com)
+[![Python](https://img.shields.io/badge/Python-282C34?&message=Python&logo=Python&logoColor=3776AB)](https://www.python.org)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-282C34?&message=Visual_Studio_Code&logo=Visual+Studio+Code&logoColor=007ACC)](https://code.visualstudio.com)
 
 ### 🔍  Where to find me
 <code> Personal site: <a href="http://www.agail.com.br">www.agail.com.br </a> </code><br><br>

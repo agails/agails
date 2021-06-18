@@ -22,8 +22,6 @@
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=0099FF)](https://git-scm.com)
 [![VSCode Badge](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
 
-<img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" />
-
 ### 📖  Currently learning / improving on
 [![Airflow Badge](https://img.shields.io/badge/Airflow-282C34?logo=Apache+Airflow&logoColor=FFFFFF)](https://airflow.apache.org)
 [![Python Badge](https://img.shields.io/badge/python-282C34?logo=python&logoColor=3DDC84)](https://www.python.org)
@@ -45,3 +43,5 @@
     </td>
   </row>
 </table>
+
+<img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" />

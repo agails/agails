@@ -35,12 +35,12 @@
 <table align='center'>
 <tbody>
   <tr>
-    <td> <!-- Card -->
-      <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=agails&layout=compact&theme=light'> </td>
-    <td rowspan="2"> <img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" /> </td>
+    <td class="tg-0pky"> <!-- Card -->
+      <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=agails&layout=compact'></td>
+    <td rowspan="2" class="tg-0pky"><img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="510" height="330"/></td>
   </tr>
   <tr>
-    <td> <img height='150' src='https://github-readme-stats.vercel.app/api?username=agails&show_icons=true&theme=light'> </td>
+    <td class="tg-0pky"><img height='150' src='https://github-readme-stats.vercel.app/api?username=agails&show_icons=true&layout=compact'></td>
   </tr>
 </tbody>
 </table>

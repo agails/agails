@@ -15,16 +15,20 @@
 - 🥷🏼  **I define myself as:** Autodidact, focused, curious, intense and determined
 - 🎮  **Fun fact:** Playstation fan since 1994
 
-### 🛠  Technologies and tools
+### 🛠  Tools and technologies to which I have proficiency
 [![Apple Badge](https://img.shields.io/badge/Apple-282C34?logo=Apple&logoColor=FFFFFF)](https://apple.com)
-[![AWS Badge](https://img.shields.io/badge/AWS-282C34?logo=Amazon+AWS&logoColor=FE7A16)](https://aws.amazon.com)
+[![Adobe Dreamweaver](https://img.shields.io/badge/Dreamweaver-282C34?logo=Adobe+Dreamweaver&logoColor=3DDC84)](https://adobe.com)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-282C34?logo=Adobe+Illustrator&logoColor=e39a24)](https://adobe.com)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-282C34?logo=Adobe+Photoshop&logoColor=007ACC)](https://adobe.com)
+[![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-282C34?logo=Affinity+Photo&logoColor=e324c6)](https://adobe.com)
 [![git Badge](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)](https://git-scm.com)
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=0099FF)](https://git-scm.com)
-[![VSCode Badge](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
 
-### 📖  Currently learning / improving on
+### 📖  Tools and technologies in which I am currently learning / improving my knowledge
 [![Airflow Badge](https://img.shields.io/badge/Airflow-282C34?logo=Apache+Airflow&logoColor=FFFFFF)](https://airflow.apache.org)
+[![AWS Badge](https://img.shields.io/badge/AWS-282C34?logo=Amazon+AWS&logoColor=FE7A16)](https://aws.amazon.com)
 [![Python Badge](https://img.shields.io/badge/python-282C34?logo=python&logoColor=3DDC84)](https://www.python.org)
+[![VSCode Badge](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
 
 ### 🔍  Where to find me
 <code> Personal site: <a href="http://www.agail.com.br">www.agail.com.br </a> </code><br><br>

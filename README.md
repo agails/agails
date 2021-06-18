@@ -6,16 +6,29 @@
 
 ### Enthusiast of new technologies and passionate about data, seeking knowledge in the area of data engineering, big data analysis and data science to powerup my career and be able to help society to extract, transform and load even more data!
 
-- 💼  I’m currently working on: KOIN Adm. de Cartões e Meios de Pagamento S.A.
-- 📚  I’m currently learning: Pyton and Apache Airflow
-- 🤝  I’m looking to collaborate on: Interesting Projects
-- 🔬  I’m looking for help with: Search of Apache Airflow free knowledges 😅
-- 💬  Ask me about: All about SQL!
-- 📫  How to reach me: Just look at my contacts below
-- 🥷🏼  I define myself as: Autodidact, focused, curious, intense and determined
-- 🎮  Fun fact: Playstation fan since 1994 <img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" />
+- 💼  **I’m currently working on:** KOIN Adm. de Cartões e Meios de Pagamento S.A.
+- 📚  **I’m currently learning:** Pyton and Apache Airflow
+- 🤝  **I’m looking to collaborate on:** Interesting Projects
+- 🔬  **I’m looking for help with:** Search of Apache Airflow free knowledges 😅
+- 💬  **Ask me about:** All about SQL!
+- 📫  **How to reach me:** Just look at my contacts below
+- 🥷🏼  **I define myself as:** Autodidact, focused, curious, intense and determined
+- 🎮  **Fun fact:** Playstation fan since 1994
 
-## Contacts:
+## 🛠  Technologies and tools
+[![Apple Badge](https://img.shields.io/badge/Apple-282C34?logo=Apple&logoColor=FFFFFF)](https://apple.com)
+[![AWS Badge](https://img.shields.io/badge/AWS-282C34?logo=Amazon+AWS&logoColor=FE7A16)](https://aws.amazon.com)
+[![git Badge](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)](https://git-scm.com)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=0099FF)](https://git-scm.com)
+[![VSCode Badge](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
+
+<img align="right" alt="GIF" src="https://github.com/agails/agails/blob/main/code.gif?raw=true" width="500" height="320" />
+
+## 📖  Currently learning / improving on
+[![Airflow Badge](https://img.shields.io/badge/Airflow-282C34?logo=Apache+Airflow&logoColor=FFFFFF)](https://airflow.apache.org)
+[![Python Badge](https://img.shields.io/badge/python-282C34?logo=python&logoColor=3DDC84)](https://www.python.org)
+
+## 🔍  Where to find me
 <code> Personal site: <a href="http://www.agail.com.br">www.agail.com.br </a> </code><br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/agail)](https://www.linkedin.com/in/agail)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agails)](https://twitter.com/agails)
